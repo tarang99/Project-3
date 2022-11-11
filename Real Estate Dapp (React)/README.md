@@ -22,19 +22,19 @@ Other - </br>
 8. '<strong>npm start</strong>' to load up the project on your local browser. (make sure you're on your ganache network in your metamask extension) </br>
 
 9. From owner acc. add a property
-<img src="./Iamges/Project1.png" alt="Project">
+<img src="./Images/Project1.png" alt="Project">
 
 10. MetaMask confirmation for listing the property
-<img src="./Iamges/Project2.png" alt="Project">
+<img src="./Images/Project2.png" alt="Project">
 
 11. Owner will be having one listed property
-<img src="./Iamges/Project3.png" alt="Project">
+<img src="./Images/Project3.png" alt="Project">
 
 12. Change acc. to customer acc.
-<img src="./Iamges/Project4.png" alt="Project">
+<img src="./Images/Project4.png" alt="Project">
 
 13. Buy the property for 1 Ether 
-<img src="./Iamges/Project5.png" alt="Project">
+<img src="./Images/Project5.png" alt="Project">
 
 14. After buying the property will go out of market and if you want sell it again you can use listing tab and change the ether value
-<img src="./Iamges/Project6.png" alt="Project">
+<img src="./Images/Project6.png" alt="Project">
