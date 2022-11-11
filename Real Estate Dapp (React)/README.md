@@ -1,4 +1,5 @@
-(Please check out the updated version in the main-repo)
+# Alpha Estates DAPP
+
 <p></p>
 <h2>Getting Started</h2> 
 <p></p>
@@ -20,6 +21,20 @@ Other - </br>
 7. Go to your metamask extension and create a new network configured to your Ganache network. In that network, import a new account w/ one of the private keys inside your Ganache. </br>
 8. '<strong>npm start</strong>' to load up the project on your local browser. (make sure you're on your ganache network in your metamask extension) </br>
 
-<p></p>
-<img src="./project.png" alt="Project">
+9. From owner acc. add a property
+<img src="./Iamges/Project1.png" alt="Project">
 
+10. MetaMask confirmation for listing the property
+<img src="./Iamges/Project2.png" alt="Project">
+
+11. Owner will be having one listed property
+<img src="./Iamges/Project3.png" alt="Project">
+
+12. Change acc. to customer acc.
+<img src="./Iamges/Project4.png" alt="Project">
+
+13. Buy the property for 1 Ether 
+<img src="./Iamges/Project5.png" alt="Project">
+
+14. After buying the property will go out of market and if you want sell it again you can use listing tab and change the ether value
+<img src="./Iamges/Project6.png" alt="Project">
